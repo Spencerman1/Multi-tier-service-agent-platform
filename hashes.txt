@@ -1,0 +1,4 @@
+﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Spenc\OneDrive\Desktop\Multi-tier service agent platform\hashes.txt
+27642EC75BB91CABBDAE94F24D33425C819E0ECEA09022E4FFFD90F66BE72712 *C:\Users\Spenc\OneDrive\Desktop\Multi-tier service agent platform\Multi-tier service agent platform.docx
+5661ABA865909F7C03BE4754BC9327A3812EC9685CF8A71E1CEF649B23D81033 *C:\Users\Spenc\OneDrive\Desktop\Multi-tier service agent platform\Screenshot 2025-11-23 190458.png
+09F86368B7D603F7340B1018692A78CF82051013B7667C22D174CDA1356E21F2 *C:\Users\Spenc\OneDrive\Desktop\Multi-tier service agent platform\Screenshot 2025-11-23 190552.png
