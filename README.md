@@ -1,2 +1,4 @@
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
 # Multi-tier-service-agent-platform
 It formally documents the Multi-Tier Service Agent Platform authored by Spencer Southern, anchoring its strategic evolution, timestamped authorship, and continuity with the Shepherding Process. You can open or download the PDF from the card above.
